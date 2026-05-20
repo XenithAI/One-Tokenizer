@@ -19,23 +19,21 @@ Guided by these theoretical findings, we propose *One Tokenizer*, a native archi
 
 
 # Citation
-If you find this repository useful, you can cite it as: 
 
+## Citation
 
+If you find this repository useful, you can cite it as:
+
+```bibtex
 @misc{li2026mindgapmoreachieving,
-
-      title={Mind the Gap No More: Achieving Zero-Gap Multimodal Integration via One Tokenizer}, 
-      
-      author={Yanan Li and Christina Yi Jin and Yuan Jin and Manli Luo and Tie Xu and Shuai Jiao and Wei He and Qing Zhang},
-      
-      year={2026},
-      
-      eprint={2602.12286},
-      
-      archivePrefix={arXiv},
-      
-      primaryClass={q-bio.GN},
-      
-      url={https://arxiv.org/abs/2602.12286}, 
+  title={Mind the Gap No More: Achieving Zero-Gap Multimodal Integration via One Tokenizer},
+  author={Yanan Li and Christina Yi Jin and Yuan Jin and Manli Luo and Tie Xu and Shuai Jiao and Wei He and Qing Zhao},
+  year={2026},
+  eprint={2602.12286},
+  archivePrefix={arXiv},
+  primaryClass={q-bio.GN},
+  url={https://arxiv.org/abs/2602.12286},
 }
+```
+
 
