@@ -13,6 +13,11 @@
   <sub> We systematically investigate three DNA-text fusion strategies. (a) The standard modular architecture, adopted by current DNA-text models. (b) SeqCLIP: explict semantic alignment on the gene encoder by contrastively learning on massive DNA-text pairs. (c) Our One Tokenizer: extend the pre-trained LLM's vocabulary with DNA-specific tokens, allowing LLM to process them natively.</sub>
 </div>
 
+## News
+
+- [2026.5.10] The code of our baseline method SeqCLIP is released. 
+- The code of One Tokenizer is coming soon!
+  
 ## Overview
 This is the official repository of our paper "Mind the Gap No More: Achieving Zero-Gap Multimodal Integration via One Tokenizer". 
 
@@ -22,6 +27,7 @@ Guided by these theoretical findings, we propose *One Tokenizer*, a native archi
 
 ## Experiments
 We provide the implementation to reproduce the main results in the paper. 
+
 
 ## Citation
 
