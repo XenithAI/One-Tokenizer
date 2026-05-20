@@ -2,7 +2,7 @@
 
 [[Paper]](https://arxiv.org/pdf/2602.12286)
 <div align="center">
-  <img src="assets/dna-language-frameworks.png" width="500">
+  <img src="assets/dna-language-frameworks.png" width="700">
 </div>
 
 # Overview
