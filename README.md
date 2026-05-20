@@ -15,7 +15,7 @@
 
 ## News
 
-- [2026.5.10] The code of our baseline method SeqCLIP is released. 
+- [2026.5.10] The code of our baseline method [SeqCLIP](https://github.com/XenithAI/SeqCLIP) is released. 
 - The code of One Tokenizer is coming soon!
   
 ## Overview
